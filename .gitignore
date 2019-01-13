@@ -1,0 +1,8 @@
+ncsdk
+bin
+lib
+include
+.pyc
+ubuntu_vm
+
+.Python
