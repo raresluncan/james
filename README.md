@@ -13,10 +13,13 @@ Your friendly robot.
 - go to the ncsdk directory using `cd ncsdk/`
 - run the install command `make install` which installs the ncsdk
 - go back to root using `cd ..`
-- clone the examples using `git clone -b ncsdk2 https://github.com/movidius/ncappzoo.git`
 
-
-A full guide for installing the NCSDK for Movidius and the afferent examples can be found here.
+A full guide for installing the NCSDK for Movidius and the afferent examples can be found here https://medium.freecodecamp.org/how-to-set-up-the-intel-movidius-neural-compute-stick-b9db16d493a7
 
 ### Examples
 Examples are found in the apps folders from the ncappzoo repository. For pretty readmes in markup check their repository and REAME.md files for each app here: https://github.com/movidius/ncappzoo/tree/master/apps
+
+
+- clone the examples using `git clone https://github.com/movidius/ncappzoo.git`
+- go to the ncappzoo direcotry using `cd ncappzoo/`
+- run `make` command
